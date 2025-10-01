@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "CreNewsSearch"
+version = "0.0.1"
+authors = [
+  { name="Michael Kahle", email="michael.kahle@yahoo.de" },
+]
+description = "A Newspaper Search Adapter"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+license = {file = "LICENSE"}
+dependencies = [
+]
+[project.urls]
+Homepage = "https://github.com/SnakeOilBottles/CreNewsSearch"
+Issues = "https://github.com/SnakeOilBottles/CreNewsSearch/issues"
+
+
