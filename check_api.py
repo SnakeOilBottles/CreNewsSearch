@@ -296,6 +296,7 @@ def inqRapidMicroTranslate3(results=[]):
             return False
         if (len(jsonData)>0):
           results.append(":white_check_mark: Microsoft-Translator-3 status fine")
+          print(jsonData)
           if ('translations' in jsonData[0]):
             results.append(":white_check_mark: Microsoft-Translator-3 results found")
             return True
