@@ -16,12 +16,8 @@
 ### GeonamesAPI  
 :white_check_mark: Geonames key exists  
 :white_check_mark: Geonames respone fine  
-:no_entry: Geonames status **failed**:  
-Please recheck the API key and its assignment:  
-1. Please register with username (i.e.: SnakeOilBottles) at https://www.geonames.org/login  
-2. Assign the choosen username as new organization secret at https://github.com/organizations/SnakeOilBottles/settings/secrets/actions/new  
-   * Name:  **GEONAMES_KEY**   
-   * Value: **Your username here**   
+:white_check_mark: Geonames result fine  
+:white_check_mark: Geonames results found  
 
 ---
   
@@ -83,42 +79,29 @@ If it doesn't help, **recheck** the registration and the key entry:
 ---
   
 ### RapidAPI: Microsoft-Translator-3  
-:white_check_mark: Microsoft-Translator-3 respone fine  
-:no_entry: **Not** subscribed to Microsoft-Translator-3  
-Subscribe to Microsoft-Translator-3 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/apiship-apiship-default/api/microsoft-translator-text-api3  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:no_entry: Microsoft-Translator-3 respone **failed**  
+Maybe retry later...?  
 
 ---
   
 ### RapidAPI: Text-Translator-2  
 :white_check_mark: Text-Translator-2 respone fine  
-:no_entry: **Not** subscribed to Text-Translator-2  
-Subscribe to Text-Translator-2 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/dickyagustin/api/text-translator2  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Text-Translator-2 status fine  
+:white_check_mark: Text-Translator-2 results found  
 
 ---
   
 ### RapidAPI: Free-Google-Translator  
 :white_check_mark: Free-Google-Translator respone fine  
-:no_entry: **Not** subscribed to Free-Google-Translator  
-Subscribe to Free-Google-Translator API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/joshimuddin8212/api/free-google-translator  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Free-Google-Translator status fine  
+:white_check_mark: Free-Google-Translator results found  
 
 ---
   
 ### RapidAPI: Multi-Traduction-Translate  
 :white_check_mark: Multi-Traduction-Translate respone fine  
-:no_entry: **Not** subscribed to Multi-Traduction-Translate  
-Subscribe to Multi-Traduction-Translate API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Multi-Traduction-Translate status fine  
+:white_check_mark: Multi-Traduction-Translate results found  
 
 ---
   
