@@ -1,10 +1,7 @@
 # BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
-:no_entry: Github Organization **not** assigned (or not public):  
-1. Goto https://github.com/orgs/SnakeOilBottles/people  
-2. Check if KMicha is listed as Members  
-3. Else: 'Invite member' KMicha  
+:white_check_mark: Github Organization assigned  
 
 ---
   
@@ -55,31 +52,22 @@ If it doesn't help, **recheck** the registration and the key entry:
   
 ### RapidAPI: News-API-14  
 :white_check_mark: News-API-14 respone fine  
-:no_entry: **Not** subscribed to News-API-14  
-Subscribe to News-API-14 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/news-api14  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: News-API-14 status fine  
+:white_check_mark: News-API-14 results found  
 
 ---
   
 ### RapidAPI: Google-News-25  
 :white_check_mark: Google-News-25 respone fine  
-:no_entry: **Not** subscribed to Google-News-25  
-Subscribe to Google-News-25 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/things4u-api4upro/api/google-news25  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Google-News-25 status fine  
+:white_check_mark: Google-News-25 results found  
 
 ---
   
 ### RapidAPI: Real-Time-News-Data  
 :white_check_mark: Real-Time-News-Data respone fine  
-:no_entry: **Not** subscribed to Real-Time-News-Data  
-Subscribe to Real-Time-News-Data API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-news-data  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Real-Time-News-Data status fine  
+:white_check_mark: Real-Time-News-Data results found  
 
 ---
   
@@ -89,11 +77,8 @@ Subscribe to Real-Time-News-Data API:
   
 ### RapidAPI: Deep-Translate-1  
 :white_check_mark: Deep-Translate-1 respone fine  
-:no_entry: **Not** subscribed to Deep-Translate-1  
-Subscribe to Deep-Translate-1 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/gatzuma/api/deep-translate1  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Deep-Translate-1 status fine  
+:white_check_mark: Deep-Translate-1 results found  
 
 ---
   
