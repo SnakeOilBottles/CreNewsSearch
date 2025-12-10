@@ -15,6 +15,7 @@ class NewsSearch():
           self.newsInstances[language] = newsInstance(language)
         return self.newsInstances[language]  
 
+    #articles: ['instance','url','domain','title','author','description','image','published','content','archive','language']
     def search(language, term):
         results = {'status':'none', 'articles':[]}     
         ti = self.getNewsSearchByLanguage(language)

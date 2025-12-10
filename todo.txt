@@ -1,0 +1,20 @@
+https://newspaper.readthedocs.io/en/latest/    (https://arxiv.org/pdf/2504.19066)
+https://github.com/codelucas/newspaper
+-> updated to:
+https://github.com/AndyTheFactory/newspaper4k
+
+
+
+https://serpapi.com/pricing
+https://serpapi.com/google-news-api
+
+
+
+https://github.com/ranahaani/GNews/
+
+
+
+
+
+
+
