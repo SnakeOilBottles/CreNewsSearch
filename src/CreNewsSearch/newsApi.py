@@ -1,5 +1,8 @@
+import mysecrets
+
 from CreNewsSearch.NewsBase import NewsBase
 
+import os
 import random
 import requests
 #from urllib.parse import urlparse
@@ -63,7 +66,7 @@ class newsApi(NewsBase):
         print("inside search newsapi")
         newsApi.callCounter += 1
         ##
-        apiKey = "561d14bba2984f0bb68dc215cfaea814"
+        apiKey = os.getenv('NEWSAPI_KEY')
         ## add multiple keys! 
 
 
@@ -116,7 +119,6 @@ ar, de, en, es, fr, he, it, nl, no, pt, ru, sv, ud, zh
 
 def inqRandomNews():
     apiKey = os.getenv('NEWSAPI_KEY')
-    apiKey = 'af24229d673d4b1ab546df8c4ca9f176' ## DELETE!!
 
     #keyWord = random.choice(searchWords)
     #language = 'de'

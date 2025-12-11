@@ -8,7 +8,8 @@ from CreNewsSearch.newsInstance import newsInstance
 ## TODO: remove!
 import os
 if(not os.getenv('NEWSAPI_KEY')):
-    os.environ['NEWSAPI_KEY'] = '561d14bba2984f0bb68dc215cfaea814'
+   print('NEWSAPI_KEY not set') 
+   exit()
 
 
 ns = NewsSearch()

@@ -6,10 +6,12 @@ class TestSearch(TestCase):
     def test_simple_search(self):
         ns = NewsSearch()
         li = ns.getNewsSearchByLanguage('en')
-        tarTree = li.search('climate change')
-        print(tarTree)
-        #self.assertEqual('Baum', tarTree)
-        tarHouse = li.search('earthquake')
-        print(tarHouse)
-        #self.assertEqual('Haus', tarHouse)
+        resCC = li.search('climate change')
+        #print(resCC)
+        self.assertEqual('OK', resCC['status'])
+        self.assertTrue(len(resCC['articles'])>0)
+        resEQ = li.search('earthquake')
+        #print(resEQ)
+        self.assertEqual('OK', resEQ['status'])
+        self.assertTrue(len(resEQ['articles'])>0)
 
